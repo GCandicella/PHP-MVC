@@ -1,0 +1,15 @@
+{
+    "name": "ohmydog/mvc",
+    "authors": [
+        {
+            "name": "GCandicella",
+            "email": "guilherme.calassi@webcomum.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "app\\": "./"
+        }
+    },
+    "require": {}
+}
